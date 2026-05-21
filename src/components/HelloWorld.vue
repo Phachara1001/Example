@@ -17,6 +17,8 @@ const count = ref(0)
     <div>
       <h1>maker</h1>
       <p>free <code>src/App.vue</code> and save to test <code>HMR</code></p>
+      <h1>Phakin</h1>
+      <p>Edit <code>src/App.vue</code> and save to test <code>HMR</code></p>
     </div>
     <button type="button" class="counter" @click="count++">
       Count is {{ count }}
